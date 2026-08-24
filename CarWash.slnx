@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CarWash.Api/CarWash.Api.csproj" />
+    <Project Path="src/CarWash.Application/CarWash.Application.csproj" />
+    <Project Path="src/CarWash.Communication/CarWash.Communication.csproj" />
+    <Project Path="src/CarWash.Domain/CarWash.Domain.csproj" />
+    <Project Path="src/CarWash.Exception/CarWash.Exception.csproj" />
+    <Project Path="src/CarWash.Infrastructure/CarWash.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CommomTestUtilities/CommomTestUtilities.csproj" Id="0fcf5936-4ff1-4c54-87f5-7d75b61263e7" />
+    <Project Path="tests/UseCases.Tests/UseCases.Tests.csproj" Id="0e28b928-e660-46aa-b89a-fc55d4247314" />
+    <Project Path="tests/Validators.Tests/Validators.Tests.csproj" Id="9d1cec12-969d-4176-9350-4eb7ee07830e" />
+  </Folder>
+</Solution>
