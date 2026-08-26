@@ -44,5 +44,3 @@ async Task MigrateDatabase() //start migration to database automatically
     await DatabaseMigration.MigrateDatabase(scope.ServiceProvider);
     
 }
-
-public partial class Program { }
